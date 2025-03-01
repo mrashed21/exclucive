@@ -5,7 +5,7 @@ import { useState } from "react";
 const SubNavbar = () => {
   const [language, setLanguage] = useState("en");
   return (
-    <div className="flex justify-between items-center container mx-auto">
+    <div className="flex justify-between items-center container mx-auto font-poppins">
       <p></p>
       <p className="text-center">
         Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!{" "}
